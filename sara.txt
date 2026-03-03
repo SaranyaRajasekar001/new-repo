@@ -14,7 +14,7 @@
             <th>Dept</th>
         </tr>
         <tr>
-            <td>Saranya</td>
+            <td>priya</td>
             <td>01</td>
             <td>CSE</td>
         </tr>
