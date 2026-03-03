@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Example</title>
+</head>
+<body>
+
+    <h2>Student Details</h2>
+
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Roll No</th>
+            <th>Dept</th>
+        </tr>
+        <tr>
+            <td>Saranya</td>
+            <td>01</td>
+            <td>CSE</td>
+        </tr>
+        <tr>
+            <td>Ramya</td>
+            <td>02</td>
+            <td>CSE</td>
+        </tr>
+    </table>
+
+</body>
+</html>
